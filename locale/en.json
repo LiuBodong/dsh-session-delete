@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session Delete",
+    "description": "Adds a delete action to each sidebar session menu. Confirming removes the session's log, projection cache, and registry markers."
+  }
+}

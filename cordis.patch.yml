@@ -1,0 +1,6 @@
+- insert:
+    - id: session-delete
+      name: '@local/dsh-session-delete'
+      config:
+        sessionsRoot: !!js dshHomePath('sessions')
+        storageRoot: !!js dshHomePath('storages')
